@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab Terminal</string>
+    <string name="loading_students">Loading Students...</string>
+    <string name="loading_students_error">Error Loading Student. Sed Loif.</string>
+</resources>
